@@ -1,4 +1,4 @@
-## Lesson 1 Markdown Notes
+## Lesson 8 Markdown Notes
 
 ![](https://snag.gy/HiJUsO.jpg)
 
